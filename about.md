@@ -22,12 +22,11 @@ permalink: /about/
       <li>Business Intelligence Analyst at Amica Insurance</li>
       <li>Interested in data-driven business solutions, predictive modeling, and visualization</li>
       </ul>
-
       <h2>Skills</h2>
       <ul>
-        <li>Python, R, SQL, Excel, Strategy</li>
-        <li>Machine Learning: Regression, Classification, Clustering</li>
-        <li>Data Visualization: Matplotlib, Seaborn</li>
+      <li>Python, R, SQL, Excel, Strategy</li>
+      <li>Machine Learning: Regression, Classification, Clustering</li>
+      <li>Data Visualization: Matplotlib, Seaborn</li>
       </ul>
     </div>
     <!-- Right column: avatar -->
