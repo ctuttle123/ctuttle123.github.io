@@ -10,18 +10,19 @@ permalink: /about/
     <div class="about-text">
       <h2>About Me</h2>
       <ul>
-        <li>Franco-American; lived my entire life in France and went to an international school</li>
-        <li>I love to play sports: Tennis, Golf, Soccer, Basketball</li>
-        <li>I like finding applications for data analysis in my day to day life</li>
-        <li>I enjoy discovering new passions from people, most recently climbing!</li>
-        <li>I am also very food driven! I love cooking and eating new meals from all over the world.</li>
+       <li>Franco-American; lived my entire life in France and went to an international school</li>
+      <li>I love to play sports: tennis, golf, soccer, basketball</li>
+      <li>I like finding applications for data analysis in my day-to-day life</li>
+      <li>I enjoy discovering new passions through people, most recently climbing!</li>
+      <li>I am also very food-driven! I love cooking and eating new meals from all over the world.</li>
       </ul>
       <h2>Education</h2>
       <ul>
-        <li>Senior at Carnegie Mellon University, majoring in Economics & Data Science</li>
-        <li>Business Intelligence Analyst at Amica Insurance</li>
-        <li>Interested in data-driven business solutions, predictive modeling, and visualization</li>
+      <li>Senior at Carnegie Mellon University, majoring in Economics & Data Science</li>
+      <li>Business Intelligence Analyst at Amica Insurance</li>
+      <li>Interested in data-driven business solutions, predictive modeling, and visualization</li>
       </ul>
+
       <h2>Skills</h2>
       <ul>
         <li>Python, R, SQL, Excel, Strategy</li>
